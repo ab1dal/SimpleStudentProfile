@@ -1,0 +1,9 @@
+.pad{
+    padding:  .30rem !important;
+}
+
+.navbar-toggler:focus{
+    outline: 0 !important;
+    color: unset !important;
+    box-shadow: none !important;
+}
